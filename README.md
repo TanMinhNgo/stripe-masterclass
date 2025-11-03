@@ -39,7 +39,7 @@ A full-stack course management platform built with Next.js 16, Convex, Stripe, a
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/TanMinhNgo/stripe-masterclass
 cd stripe-simplified
 ```
 
